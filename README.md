@@ -10,13 +10,13 @@ This is the code repository for [Learning Concurrency in Kotlin](https://www.pac
 The primary requirements of modern-day applications are scalability, speed, and making the most use of hardware. Kotlin meets these requirements with its immense support for concurrency. Many concurrent primitives of Kotlin, such as channels and suspending functions, are designed to be non-blocking and efficient. This allows for new approaches to concurrency and creates unique challenges for the design and implementation of concurrent code. Learning Concurrency in Kotlin addresses those challenges with real-life examples and exercises that take advantage of Kotlin's primitives.
 
 This book covers the following exciting features:
-* Understand Kotlin’s approach to concurrency and how it is different to that of Java’s 
+* Understand Kotlinâ€™s approach to concurrency and how it is different to that of Javaâ€™s 
 * Implement suspending and asynchronous coroutines 
 * Understand how to decide which thread to execute a coroutine 
 * Create potentially infinite data streams that are loaded lazily and concurrently 
 * Explore the best practices for error handling 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-788-62716-4) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788627164) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -35,7 +35,7 @@ val time = measureTimeMillis {
 ```
 
 **Following is what you need for this book:**
-If you’re a Kotlin or Android developer interested in learning how to program concurrently to enhance the performance of your applications, this is the book for you.
+If youâ€™re a Kotlin or Android developer interested in learning how to program concurrently to enhance the performance of your applications, this is the book for you.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 ### Software and Hardware List
@@ -52,9 +52,9 @@ With the following software and hardware list you can run all code files present
 | 9 | IntelliJ IDEA Community Edition 18.01 and Android Studio | Windows, Mac OS X, and Linux (Any) |
 
 ### Related products
-* Hands-on Design Patterns with Kotlin [[Packt]](https://www.packtpub.com/application-development/hands-design-patterns-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788998017) [[Amazon]](https://www.amazon.com/dp/1-788-99801-4)
+* Hands-on Design Patterns with Kotlin [[Packt]](https://www.packtpub.com/application-development/hands-design-patterns-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788998017) [[Amazon]](https://www.amazon.com/dp/1788998014)
 
-* Mastering High Performance with Kotlin [[Packt]](https://www.packtpub.com/application-development/mastering-high-performance-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788996648) [[Amazon]](https://www.amazon.com/dp/1-788-99664-X)
+* Mastering High Performance with Kotlin [[Packt]](https://www.packtpub.com/application-development/mastering-high-performance-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788996648) [[Amazon]](https://www.amazon.com/dp/178899664X)
 
 ## Get to Know the Author
 **Miguel Angel Castiblanco Torres**
